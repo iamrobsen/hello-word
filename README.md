@@ -1,2 +1,3 @@
 # hello-word
-training course
+
+Hello world - trying to figure out how all this stuff works here.
